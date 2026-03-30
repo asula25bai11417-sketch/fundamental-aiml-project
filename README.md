@@ -21,7 +21,7 @@ This project is a simple movie recommendation system that suggests similar movie
 ##  Installation
 
 1. Clone the repository:
-git clone https://github.com/your-username/movie-recommender.git
+git clone https://github.com/asula25bai11417-sketch/movie-recommender.git
 
 2. Install dependencies:
 pip install -r requirements.txt
